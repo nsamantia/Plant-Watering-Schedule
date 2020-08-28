@@ -1,0 +1,49 @@
+[
+    {
+        "id": 0,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/9/9d/Tomato.png",
+        "watered": "no"
+    },
+    {
+        "id": 1,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/archive/f/f8/20170225200641%21Corn.png",
+        "watered": "no"
+    },
+    {
+        "id": 2,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/archive/c/c2/20160307051326%21Potato.png",
+        "watered": "no"
+    },
+    {
+        "id": 3,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/archive/a/a4/20170223213312%21Beet.png",
+        "watered": "no"
+    },
+    {
+        "id": 4,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/f/f1/Hot_Pepper.png",
+        "watered": "no"
+    },
+    { 
+        "id": 5,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/archive/c/cc/20160306165926%21Garlic.png.",
+        "watered": "no"
+    },
+    {
+        "id": 6,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/6/64/Pumpkin.png",
+        "watered": "no"
+    },
+    {
+        "id": 7,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/6/6d/Strawberry.png",
+        "watered": "no"
+    },
+    {
+        "id": 8,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/8/81/Sunflower.png",
+        "watered": "no"
+    }
+
+
+]
