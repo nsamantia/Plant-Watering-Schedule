@@ -18,5 +18,5 @@ app.get('/api/plants', plantsCtrl.getAllPlants)
 //List endpoints
 app.get('/api/list', listCtrl.getList)
 app.post('/api/list', listCtrl.addToList)
-app.put('api/list/:list_id', listCtrl.changeWatered)
-app.delete('api.list/:list_id', listCtrl.removeFromList)
+app.put('/api/list/:list_id', listCtrl.changeWatered)
+app.delete('/api/list/:list_id', listCtrl.removeFromList)
