@@ -10,13 +10,21 @@ getList: (req, res) => {
 },
 addToList: (req, res) => {
     const {plantId} = req.body
-    const plant = plants.find((element) => element.id === +plantId)
+   
     
-    plant.listId = listId
+
+    const plant = plants.find((element) => element.id === plantId)
+    
+
+    plant.listId = +listId
 
     list.items.push(plant) 
-    res.status(200).send(list)
     listId++
+    
+     res.status(200).send(list)
+      
+     
+   
 },
 changeWatered: (req, res) => {
     const {list_id} = req.params
