@@ -62,7 +62,11 @@ export default class Display extends Component{
         return(
 
             <div>
+                
             <Plants addToList={this.addToList} plants={this.state.plants} />
+            
+           
+
             <List 
                 changeWatered={this.changeWatered}
                 removeFromList={this.removeFromList}

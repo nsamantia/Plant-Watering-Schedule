@@ -3,7 +3,7 @@ import Plant from './Plant'
 
 const Plants = (props) => {
     return (
-    <div >
+    <div className="Plants" >
         <div className = 'buttonContainer'>
         {props.plants.map((element) => {
             return (
