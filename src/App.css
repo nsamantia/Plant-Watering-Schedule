@@ -91,6 +91,7 @@ body{
   padding: 5px 10px;
   margin-left: 4px;
   font-family: 'Open Sans', sans-serif;
+  cursor: pointer;
 }
 
 .list-button-x{
@@ -100,6 +101,7 @@ body{
   padding: 2px 4px;
   margin-left: 4px;
   font-family: 'Open Sans', sans-serif;
+  cursor: pointer;
 }
 
 .list-h2{
@@ -118,3 +120,16 @@ body{
   font-family: 'Indie Flower', cursive;
   font-size: 40px;
 }
+
+.choice-h1{
+  display: flex;
+  justify-content: center;
+  padding: 2px;
+  font-family: 'Indie Flower', cursive;
+  font-size: 36px
+}
+
+button:hover{
+  opacity: .7;
+}
+

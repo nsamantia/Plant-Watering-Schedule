@@ -3,11 +3,16 @@ import React, {Component} from 'react'
 export default class Plant extends Component {
         constructor(){
             super()
-            this.state = {}
+            this.state = {
+                
+                
+            }
         }
 
         handleAddToList() {
             this.props.addToList(this.props.data.id)
+           
+           
         }
 
         render() {
